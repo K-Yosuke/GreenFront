@@ -1,0 +1,16 @@
+{
+  "name": "greenfront",
+  "version": "1.0.0",
+  "description": "フロントエンドモジュール",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kawaguchi, Yosuke",
+  "private": true,
+  "dependencies": {
+    "@types/node": "^7.0.13",
+    "angular": "^1.6.4",
+    "typescript": "^2.2.2"
+  }
+}
